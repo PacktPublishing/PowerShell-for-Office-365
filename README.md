@@ -7,19 +7,22 @@ The book starts by teaching readers how to access Office 365 through PowerShell 
 
 By the end of the book, you will have automated major repetitive tasks in Office 365 using PowerShell.
 ## Instructions and Navigation
-All of the code is organized into folders. For example, Chapter01.
+All of the code is organized into folders. For example, Chapter06.
 
 
 
 The code will look like the following:
 ```
-$i=1
- do
- {
-   Write-Host "Value of i is" $i
-   $i++
- }
- until ($i -gt 10)
+function Get-DailyProductSalesQuery{
+ $module = Get-Module SalesDashboardModule;
+
+ $filePath = $module.FileList | Where { $_ -like '*DailyProductSalesQuery*'}
+ 
+ $sql = [System.IO.File]::ReadAllText($filePath).Trim();
+
+ Write-Debug "Sql: $($sql)";
+ return $sql;
+}
 ```
 
 
