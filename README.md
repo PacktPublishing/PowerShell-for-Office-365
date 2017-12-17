@@ -33,6 +33,3 @@ function Get-DailyProductSalesQuery{
 * [Installing SharePoint 2013 Using PowerShell](https://www.packtpub.com/big-data-and-business-intelligence/installing-sharepoint-2013-using-powershell?utm_source=github&utm_medium=repository&utm_campaign=9781787122321)
 
 * [Mastering Windows PowerShell 5 Administration [Video]](https://www.packtpub.com/networking-and-servers/mastering-windows-powershell-5-administration-video?utm_source=github&utm_medium=repository&utm_campaign=9781786467980)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
