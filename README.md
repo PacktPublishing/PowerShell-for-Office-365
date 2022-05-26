@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B06238?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # PowerShell for Office 365
 This is the code repository for [PowerShell for Office 365](https://www.packtpub.com/networking-and-servers/powershell-office-365?utm_source=github&utm_medium=repository&utm_campaign=9781787127999), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
