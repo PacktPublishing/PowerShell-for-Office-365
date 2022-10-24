@@ -33,3 +33,7 @@ function Get-DailyProductSalesQuery{
 * [Installing SharePoint 2013 Using PowerShell](https://www.packtpub.com/big-data-and-business-intelligence/installing-sharepoint-2013-using-powershell?utm_source=github&utm_medium=repository&utm_campaign=9781787122321)
 
 * [Mastering Windows PowerShell 5 Administration [Video]](https://www.packtpub.com/networking-and-servers/mastering-windows-powershell-5-administration-video?utm_source=github&utm_medium=repository&utm_campaign=9781786467980)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781787127999">https://packt.link/free-ebook/9781787127999 </a> </p>
